@@ -4,7 +4,10 @@
 
 目前涵蓋主題：
 
-- 工作技術棧：Kotlin/Java（後端）、Swift/iOS、Android（Kotlin）、AWS/AWS CDK（IaC）、OpenAPI/Swagger
+- 工程知識/教學型文章（約5則）：工具介紹、原理科普、「這個東西是怎麼運作的」、best practice，偏教育性內容
+- 知名工程師個人部落格近期文章（1-2則）
+- GitHub Trending 近期star數暴增的repo（1-2則）
+- 工作技術棧：Kotlin/Java（後端）、AWS/AWS CDK（IaC）、OpenAPI/Swagger
 - 更廣泛後端主題：AI/LLM 工程應用、資料庫（DB）、分散式系統/系統設計/架構
 - 綜合 IT 新聞熱門話題
 
@@ -16,3 +19,5 @@
 ## 回饋紀錄
 
 - 2026-07-14　【格式/要求】連結要精確到特定文章或 repo，不要給一覽列表的網址（例：GitHub Trending 要給實際 repo 的 repo 網址，而非 github.com/trending 這種列表頁）。原因：列表頁會變動且不是所指內容本身，使用者要直接點進該篇/該專案。
+- 2026-07-14：不喜歡 Android/iOS 版本更新、SDK 更新類的新聞（原本涵蓋的 Swift/iOS、Android 主題已移除）；喜歡多一些工程知識/教學型文章（教好用的東西、原理是怎麼運作的），已新增獨立類別並保留約5則名額。
+
