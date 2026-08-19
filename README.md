@@ -51,3 +51,7 @@ AI 跑」時使用：
 `workflow_dispatch` fallback——手機上在 GitHub App 裡點一下「Run workflow」就能觸發，完全不
 依賴任何聊天 App。但這等於是另外做一個小後端專案（需要自己接網路搜尋 API、管理 secrets、
 負擔 API 費用），先不做，只在文件裡留這個選項備查。
+
+## tips
+
+以Claude舉例，在創建routine的時候permission指定auto跟model指定能負擔且效能可行的model會更符合使用情況
